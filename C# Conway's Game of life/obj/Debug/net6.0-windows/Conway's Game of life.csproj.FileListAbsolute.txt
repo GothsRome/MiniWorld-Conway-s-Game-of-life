@@ -1,0 +1,18 @@
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.csproj.AssemblyReference.cache
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.csproj.GenerateResource.cache
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.AssemblyInfoInputs.cache
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.AssemblyInfo.cs
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.csproj.CoreCompileInputs.cache
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\bin\Debug\net6.0-windows\Conway's Game of life.exe
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\bin\Debug\net6.0-windows\Conway's Game of life.deps.json
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\bin\Debug\net6.0-windows\Conway's Game of life.runtimeconfig.json
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\bin\Debug\net6.0-windows\Conway's Game of life.dll
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\bin\Debug\net6.0-windows\Conway's Game of life.pdb
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.dll
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\refint\Conway's Game of life.dll
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.pdb
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway's Game of life.genruntimeconfig.cache
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\ref\Conway's Game of life.dll
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway_s_Game_of_life.Properties.Resources.resources
+C:\Users\WYC\Desktop\程序\Conway's Game of life\Conway's Game of life\obj\Debug\net6.0-windows\Conway_s_Game_of_life.For.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conway's Game of life/1.0.0": {
+        "runtime": {
+          "Conway's Game of life.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conway's Game of life/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
